@@ -3,8 +3,12 @@
 Author:
 - [Ismail Alamir](https://github.com/IsmailAlamir)
 - [alaa abo aladoos](https://github.com/alaa-adoos)
+## Description:
+
+###  - the app is about Cryptocurrency , the user can explore information for coins by input it's symbol 
+### ![Cryprtol!]([/assets/images/san-juan-mountains.jpg "San Juan Mountains](https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/2021/05/07/cryptocurrency-Nuthawut-adobe.jpg?h=6acbff97&itok=kyPXtQ0N)")    
 ### Setup
-### PR for lab 06[PR for lab 06](https://github.com/alaa-adoos/Cryptocurrency/pull/1)
+### [PR for lab 06](https://github.com/alaa-adoos/Cryptocurrency/pull/1)
 How to initialize/run your application
 ```
 - python crypto/crypto.py
